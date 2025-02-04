@@ -1,0 +1,24 @@
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+langserve
+fastapi
+uvicorn
+sse_starlette
+bs4
+faiss-cpu
+pypdf
+langchain-groq
+# chromadb
+groq
+beautifulsoup4
+cassio
+wikipedia
+langchainhub
+# langchain_hub
+sentence-transformers
+datasets
+langchain-huggingface
+flask
+langchain-google-genai
